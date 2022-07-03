@@ -1,2 +1,2 @@
 #pragma once
-function sum(int n);
+int sum(int n);
